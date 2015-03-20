@@ -1,6 +1,6 @@
 # Makers Academy Course Outline
 
-### Since my GitHub repositories are not in the correct order of time, I have put together a quick ReadMe to document Week 1 through to Week 11. We also received weekend challenges every friday (Precourse included) which are also documented below.
+Since my GitHub repositories are not in the correct order of time, I have put together a quick ReadMe to document Week 1 through to Week 11. We also received weekend challenges every friday (Precourse included) which are also documented below.
 
 ### Week 10 & 11 - (Final Projects)
 ###### These are the most challenging two weeks of the course.
@@ -58,9 +58,9 @@ Project | Description | Technologies |
 #### Week 3
 
 Project | Description | Technologies/Learnt |
- :------------ | :-----------: | :-----------: |
+ :------------ | :-----------: | :-----------: | :-----------: |
 **[Battleships](https://github.com/guspowell/Battleships_on_the_web)**  |    The Battleships game implemented in the browser     | Ruby, Sinatra, Cucumber, HTML, CSS, Sessions, Params |
-**[Rock Paper Scissors](https://github.com/guspowell/rock_paper_scissors)** |   'Rock Paper Scissors' implemented in the browser     | Ruby, Rspec, Cucumber, Sinatra, HTML, CSS |
+**[Rock Paper Scissors](https://github.com/guspowell/rock_paper_scissors)** |   'Rock Paper Scissors' implemented in the browser     | Ruby, Rspec, Cucumber, Sinatra, HTML, CSS | [Link to site](https://github.com/guspowell/Hipsterfication)
 
 - [Rock Paper Scissors (Ronin Badge)](https://github.com/makersacademy/rps-challenge) (Friday Challenge) ![Ronin](https://github.com/makersacademy/course_in_review_2014_dec/blob/master/images/badges/Ronin_thumb.jpg)
 
