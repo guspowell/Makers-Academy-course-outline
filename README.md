@@ -60,7 +60,7 @@ Project | Description | Technologies |
 Project | Description | Technologies/Learnt | Online
  :------------ | :-----------: | :-----------: | :-----------: |
 **[Battleships](https://github.com/guspowell/Battleships_on_the_web)**  |    The Battleships game implemented in the browser     | Ruby, Sinatra, Cucumber, HTML, CSS, Sessions, Params |
-**[Rock Paper Scissors](https://github.com/guspowell/rock_paper_scissors)** |   'Rock Paper Scissors' implemented in the browser     | Ruby, Rspec, Cucumber, Sinatra, HTML, CSS | [Link to site](gus-rps.herokuapp.com)
+**[Rock Paper Scissors](https://github.com/guspowell/rock_paper_scissors)** |   'Rock Paper Scissors' implemented in the browser     | Ruby, Rspec, Cucumber, Sinatra, HTML, CSS | [Link to site](https://gus-rps.herokuapp.com)
 
 - [Rock Paper Scissors (Ronin Badge)](https://github.com/guspowell/rock_paper_scissors) (Friday Challenge) ![Ronin](https://github.com/makersacademy/course_in_review_2014_dec/blob/master/images/badges/Ronin_thumb.jpg)
 
